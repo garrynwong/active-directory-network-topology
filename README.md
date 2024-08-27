@@ -10,7 +10,7 @@ Project consists of visualizing the networking topology of our Active Directory.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Command Line Tools</b>
-- <b>Network Protocols</b>
+
 
 <h2>Environments Used </h2>
 
