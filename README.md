@@ -65,4 +65,4 @@ Project consists of visualizing the networking topology of our Active Directory.
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the "Firewall Rules & Inspecting Traffic" project streamlines our  .</p>
+<p> In closing, the "Active Directory Networking Topology" project streamlines our  .</p>
