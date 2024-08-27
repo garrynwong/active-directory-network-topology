@@ -26,9 +26,13 @@ Project consists of visualizing the networking topology of our Active Directory.
 
 dc pings client, client pings dc, dc & client ping the router, as well as perform a nslookup  </p>
 
-- 
 
-<br>
+![1](https://github.com/user-attachments/assets/7ade8862-aa2e-469b-9f05-fc3b6366de2c)
+
+____
+
+
+
 
 
 
