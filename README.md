@@ -20,7 +20,7 @@ Project consists of visualizing the networking topology of our Active Directory.
 <h1>Network Topology</h1>
 
 <h3>Step 1:  </h3>
-<p> Verify connectivity between all devices; 
+<p> Verify connectivity between all devices:
   
 <br>
 
