@@ -16,8 +16,6 @@ Project consists of visualizing the networking topology of our Active Directory.
 
 - <b>Windows, Windows Server</b>
 
-<h2>Program walk-through:</h2>
-
 
 <h1>Network Topology</h1>
 
@@ -29,37 +27,7 @@ Project consists of visualizing the networking topology of our Active Directory.
 <br>
 
 
-<h3>Step 2: </h3>
-<p></p>
 
-- 
-
-<br>
-
-
-<h3>Step 3: </h3>
-<p></p>
-
-- 
-
-<br>
-
-
-
-<h3>Step 4: </h3>
-<p></p>
-
-- 
-
-<br>
-
-
-<h3>Step 5: </h3>
-<p></p>
-
-- 
-
-<br>
 
 
 
