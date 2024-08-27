@@ -33,15 +33,15 @@ ____
 
 client machine
 
-![2](https://github.com/user-attachments/assets/82254214-9cfd-4deb-9191-e9285d1e6d49)
 
+![client1](https://github.com/user-attachments/assets/f17648f0-d08e-4a4b-abef-9203c6696f6c)
 
 
 ____
 
 domain controller
 
-![3](https://github.com/user-attachments/assets/b6f5e771-6acf-4f9e-a5a5-74d5b0db9d94)
+![dc](https://github.com/user-attachments/assets/7834ddd4-4144-4e87-8777-1aeca7db4f7f)
 
 
 ____
