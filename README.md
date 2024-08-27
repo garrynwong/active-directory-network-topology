@@ -20,7 +20,11 @@ Project consists of visualizing the networking topology of our Active Directory.
 <h1>Network Topology</h1>
 
 <h3>Step 1:  </h3>
-<p> </p>
+<p> Verify connectivity between all devices; 
+  
+<br>
+
+dc pings client, client pings dc, dc & client ping the router, as well as perform a nslookup  </p>
 
 - 
 
