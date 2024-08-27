@@ -19,7 +19,7 @@ Project consists of visualizing the networking topology of our Active Directory.
 
 <h1>Network Topology</h1>
 
-____
+- basic diagram of our topology
 
 ![1](https://github.com/user-attachments/assets/7ade8862-aa2e-469b-9f05-fc3b6366de2c)
 
