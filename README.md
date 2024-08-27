@@ -19,7 +19,7 @@ Project consists of visualizing the networking topology of our Active Directory.
 
 <h1>Network Topology</h1>
 
-- basic diagram of our topology
+- basic diagram of the project's topology
 
 ![1](https://github.com/user-attachments/assets/7ade8862-aa2e-469b-9f05-fc3b6366de2c)
 
@@ -59,4 +59,4 @@ ____
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the "Active Directory Networking Topology" project streamlines our  .</p>
+<p> In closing, the "Active Directory Networking Topology" project streamlines our basic understanding of networking between devices.</p>
