@@ -31,8 +31,20 @@ dc pings client, client pings dc, dc & client ping the router, as well as perfor
 
 ____
 
+client machine
+
+![2](https://github.com/user-attachments/assets/82254214-9cfd-4deb-9191-e9285d1e6d49)
 
 
+
+____
+
+domain controller
+
+![3](https://github.com/user-attachments/assets/b6f5e771-6acf-4f9e-a5a5-74d5b0db9d94)
+
+
+____
 
 
 
